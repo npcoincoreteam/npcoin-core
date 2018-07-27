@@ -1,0 +1,4 @@
+obj/version.o: version.cpp version.h clientversion.h \
+ /home/akey/npcoin_raw_ver2/src/obj/build.h
+version.cpp version.h clientversion.h :
+ /home/akey/npcoin_raw_ver2/src/obj/build.h :
