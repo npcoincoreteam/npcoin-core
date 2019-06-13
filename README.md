@@ -1,7 +1,7 @@
 NPCoin Core staging tree V1.0.0 
 ================================
 
-http://www.npcoin.info
+https://www.npcoin.info
 
 Copyright (c) 2018-2019
 
