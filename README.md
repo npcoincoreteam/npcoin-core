@@ -1,28 +1,35 @@
-NPCoin Core staging tree V1.0.0 
+NPCoin Core staging tree V1.0.1 
 ================================
 
 https://www.npcoin.info
 
-Copyright (c) 2018-2019
+Copyright (c) 2018-2019  IT Transfer Sdn Bhd 
+[![License][license-badge]][license-page]
+
+[license-page]: LICENSE
+[license-badge]: http://img.shields.io/badge/License-MIT-brightgreen.svg
+
 
 
 What is NPCoin?
 ----------------
 
-NPCoin (NPC) is a Cryptocurrency just like Bitcoin.
+NPCoin (NPC) is a utility Cryptocurrency.
 
 There are thousands of altcoins, and NPC is one of it. NPC is created to be an utility coin for daily usage, especially for Asean Regions.
 
+### Coin Specs
+<table>
+<tr><td>Max Coin Supply</td><td>150,000,000 NPC</td></tr>
+<tr><td>Algo</td><td>PoS</td></tr>
+<tr><td>Average Block Time</td><td>2 Minutes</td></tr>
+<tr><td>Maturity</td><td>10 Confirmations</td></tr>
+<tr><td>Reward</td><td>0.0001 NPC</td></tr>
+<tr><td>P2P port</td><td>13130</td></tr>
+<tr><td>RPC port</td><td>23130</td></tr>
+<tr><td>Premine</td><td>150,000,000 NPC*</td></tr>
+</table>
 
-NPCoin Coin
-----------------
-```
-- 150,000,000 total coins (Premine)
-- Block time: 2 minutes target
-- Rewards: 0.0001 NPC per block
-- Scrypt Proof of Work
-- Mineable by Staking
-```
 For more information, as well as an immediately useable, binary version of
 the NPCoin client sofware, see https://www.npcoin.info.
 
