@@ -60,8 +60,17 @@ See  [readme-qt](/doc/readme-qt.rst) for instructions on building NPCoin QT,the 
 See doc/build-*.txt for instructions on building npcoind,the intended-for-services, no-graphical-interface, reference
 implementation of NPCoin.
 
+Copy this nodes to your wallet .conf file
+If you have problem to sync your wallet with Otocash blockchain - use the following nodes to fix it.
 
-
+```
+- addnode=172.245.244.33:13130
+- addnode=151.106.0.98:13130 
+- addnode=206.189.166.85:13130
+- addnode=165.227.206.98:13130 
+- addnode=167.99.75.209:13130
+- addnode=167.99.95.113:13130
+```
 
 Testing
 -------
