@@ -4,6 +4,6 @@ See doc/readme-qt.rst for instructions on building npcoin QT,
 the intended-for-end-users, nice-graphical-interface, reference
 implementation of npcoin.
 
-See doc/build-*.txt for instructions on building npcoind,
-the intended-for-services, no-graphical-interface, reference
-implementation of npcoin.
+See doc/build-msw.txt , doc/build-osx.txt or doc/build-unix.txt
+for instructions on building npcoind,the intended-for-services, 
+no-graphical-interface, reference implementation of npcoin.
