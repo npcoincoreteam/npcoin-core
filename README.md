@@ -4,6 +4,7 @@ NPCoin Core staging tree V1.0.1
 https://www.npcoin.info
 
 Copyright (c) 2018-2019  IT Transfer Sdn Bhd 
+
 [![License][license-badge]][license-page]
 
 [license-page]: LICENSE
