@@ -36,8 +36,8 @@ const std::string CLIENT_NAME("NPCoin");
 // git will put "#define GIT_ARCHIVE 1" on the next line inside archives. 
 #define GIT_ARCHIVE 1
 #ifdef GIT_ARCHIVE
-#    define GIT_COMMIT_ID "32a928e"
-#    define GIT_COMMIT_DATE "Fri, 16 Mar 2018 14:53:46 +0100"
+#    define GIT_COMMIT_ID "a1a803a"
+#    define GIT_COMMIT_DATE "Sun, 8 Sep 2019 02:01:50 +0100"
 #endif
 
 #define BUILD_DESC_FROM_COMMIT(maj,min,rev,build,commit) \
