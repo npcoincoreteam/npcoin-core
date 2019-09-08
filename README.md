@@ -61,7 +61,7 @@ See doc/build-*.txt for instructions on building npcoind,the intended-for-servic
 implementation of NPCoin.
 
 Copy this nodes to your wallet .conf file
-If you have problem to sync your wallet with Otocash blockchain - use the following nodes to fix it.
+If you have problem to sync your wallet with NPCoin blockchain - use the following nodes to fix it.
 
 ```
 - addnode=172.245.244.33:13130
