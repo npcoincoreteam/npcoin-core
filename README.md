@@ -1,4 +1,4 @@
-NPCoin Core staging tree V1.0.1 
+NPCoin Core staging tree V1.0.3 
 ================================
 
 https://www.npcoin.info
