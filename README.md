@@ -64,12 +64,14 @@ Copy this nodes to your wallet .conf file
 If you have problem to sync your wallet with NPCoin blockchain - use the following nodes to fix it.
 
 ```
-- addnode=172.245.244.33:13130
+- addnode=64.188.21.223:13130
 - addnode=151.106.0.98:13130 
-- addnode=206.189.166.85:13130
-- addnode=165.227.206.98:13130 
-- addnode=167.99.75.209:13130
-- addnode=167.99.95.113:13130
+- addnode=155.94.211.29:13130
+- addnode=155.94.211.26:13130 
+- addnode=111.90.146.123:13130
+- addnode=111.90.146.127:13130
+- addnode=66.63.162.236:13130
+- addnode=209.127.18.168:13130
 ```
 
 Testing
